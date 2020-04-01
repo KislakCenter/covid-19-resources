@@ -8,7 +8,7 @@
 - title: 'Scribes of the Cairo Geniza'
   link: scribesofthecairogeniza.org
   description: ' Scribes of the Cairo Geniza is a multilingual crowdsourcing project to classify & transcribe fragments of medieval and premodern manuscripts from the Cairo Geniza.'
-  tags: 
+  tags:
   domain: Judaica DH
 - title: 'Schoenberg Database of Manuscripts'
   link: https://sdbm.library.upenn.edu/
@@ -18,5 +18,26 @@
 - title: 'Schoenberg Database of Manuscripts'
   link: https://sdbm.library.upenn.edu/
   description: ''
-  tags: 
+  tags:
   domain:
+- title: 'Digital Beehive Project'
+  link: https://kislakcenter.github.io/digital-beehive/
+  description: 'The Digital Beehive Project provides a digital tool for navigating Francis Daniel Pastorius's "Bee-Hive" manuscript, UPenn MS Codex 726. The project currently provides a complete page-by-page representation of the manuscript as well as a partial hyperlinked interface for navigating sections of the manuscript.'
+  tags: [primary sources, manuscripts, tools]
+  domain: Kislak
+- finding-aids:
+  title: 'Finding Aids'
+  link: http://dla.library.upenn.edu/dla/ead/index.html
+  description: 'The finding aids provide a thorough account of manuscript collections and archival materials available at the University of Pennsylvania. Finding aids include an inventory of the collection as well as relevant background information.'
+  tags: [tools, repository]
+  domain: Kislak
+- title: 'Canvas'
+  link: https://canvas.upenn.edu
+  description: 'Canvas is the primary learning management system for the University of Pennsylvania. Instructors can use Canvas in conjunction with other digital tools to provide students an interface for integrating special collections into their teaching.'
+  tags: [tool]
+  domain: University
+- title: 'Provenance Online Project'
+  link: https://provenanceonlineproject.wordpress.com/
+  description: 'The Provenance Online Project (POP) makes digital images of provenance evidence contained in books—bookplates, inscriptions, labels, bindings, and other physical attributes indicating ownership—openly available alongside bibliographic and descriptive metadata. The images, currently totaling over 18,000, come not only from Penn's collections but also from Library Company of Philadelphia, the Folger Shakespeare Library,  Princeton University Library with images coming soon from the Newberry Library,  the Clark Library at UCLA, the Beinecke Library at Yale, the Getty Research Institute, the Huntington Library, and the Library of Congress.'
+  tags: [repository]
+  domain: Kislak

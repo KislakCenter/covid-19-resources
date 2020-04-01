@@ -4,16 +4,16 @@ name: Kislak Center COVID-19 Resources
 description: COVID-19 Resources for the Kislak Center at Penn Libraries
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://KislakCenter.github.io/covid-19-resources/
+url: https://KislakCenter.github.io/covid-19-resources
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /covid-19-resources/
+baseurl: /covid-19-resources
 
 # These can be '' to hide the Github or Gitlab nav buttons
-github: 'KislakCenter/covid-19-resources/'
+github: 'KislakCenter/covid-19-resources'
 gitlab:
 
 # Define the pages to appear as links in the navigation bar in
@@ -34,6 +34,8 @@ header_pages:
     title: About
   - path: feed.xml
     title: RSS
+  - path: resources.md
+    title: Resources
   - path: search.html
     title: Search
 # Set this to your UA-# value, or '' to disable the block completely
