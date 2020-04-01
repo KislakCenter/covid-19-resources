@@ -3,9 +3,12 @@ layout: page
 title: Resources
 ---
 
-{% for resource in site.data.resources %}
+{% for resource in site.data.resources.resources %}
 
-<li> <a href={{ resource.link }}>
-      {{ resource.title }} </a>
-</li>
+<ul style="list-style-type:disc">
+  <li> <a href={{ resource.link }}>{{ resource.title }} </a>
+    <br>
+    {{ resource.description }}
+  </li>
+</ul>
 {% endfor%}
