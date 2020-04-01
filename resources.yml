@@ -45,3 +45,21 @@
   description: 'This website lists and provides access to online exhibits from the Penn Libraries collections created over the past two decades, including collections at the Kislak Center for Special Collections, Rare Books and Manuscripts, the Fisher Fine Arts Library, the Library at the Katz Center for Advanced Juadaic Studies.'
   tags: [online exhibits, manuscripts, printed works]
   domain: [Kislak, SIMS]
+<<<<<<< HEAD
+=======
+- title: 'Manuscript Studies Journal'
+  link: https://muse.jhu.edu/journal/698
+  description: 'Manuscript Studies is a new journal that embraces the full complexity of global manuscript studies in the digital age, with full text content available through Project MUSE. It has been conceived with four main goals in mind. First, to bridge the gaps between material and digital manuscript research; second, to break down the walls which often separate print and digital publication and serve as barriers between academics, professionals in the cultural heritage field, and citizen scholars; third, to serve as a forum for scholarship encompassing many pre-modern manuscripts cultures—not just those of Europe; and finally to showcase methods and techniques of analysis in manuscript studies that can be applied across different subject areas.'
+  tags: [manuscripts]
+  domain: SIMS
+- title: 'VisColl'
+  link: https://github.com/KislakCenter/VisColl
+  description: 'VisColl is a system for generating visualizations of a physical manuscript’s collation. It consists of a data model for modeling of a manuscript (based on quires, leaves in quires, and typology for the leaves (original, missing, added, replaced)), software for building models in a tabular format (published online and expressed in a custom XML schema), and software for generating visualizations from that model, via another online form. VisColl is free and available for anyone to use. Video tutorials are available on the SIMS YouTube channel :https://www.youtube.com/playlist?list=PL8e3GREu0zuDzGMlwWhHyMnSQ-TA7ZqqA'
+  tags: [manuscripts, tools]
+  domain: SIMS
+- title: 'Mss Videos'
+  link: https://schoenberginstitute.org/category/video/
+  description: 'These videos celebrate the physicality of manuscripts that traditional manuscript digitization projects cannot capture. While digitization focuses on page images, and sometimes on text encoding, these videos feature scholars discussing what is special (or typical, or otherwise interesting) about manuscripts, providing an intimate view not only of the textual content of the manuscripts, but also their physical context.'
+  tags: [manuscripts]
+  domain: SIMS
+>>>>>>> db79e9277ce432e720cd504fa3f7b740920ce5e1
