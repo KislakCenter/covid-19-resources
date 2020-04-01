@@ -28,12 +28,12 @@ gitlab:
 header_pages:
   - path: links.html
     title: Links
-  - path: archive.html
-    title: Archive
+#  - path: archive.html
+#    title: Archive
   - path: about.html
     title: About
-  - path: feed.xml
-    title: RSS
+#  - path: feed.xml
+#    title: RSS
   - path: resources.html
     title: Resources
   - path: search.html

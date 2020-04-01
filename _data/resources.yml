@@ -3,7 +3,7 @@ resources:
 - title: Schoenberg Database of Manuscripts
   link: https://sdbm.library.upenn.edu/
   description: |
-    'The SDBM continuously aggregates and updates observations of pre-modern manuscripts drawn from over 13,000 auction and sales catalogs, inventories, catalogs from institutional and private collections, and other sources that document their sales and locations from around the world. This is an interactive resource for finding, indexing, and researching the world's manuscripts. Members of its user community can become contributing partners in its development by adding new entries, commenting on other users entries, aggregating entries to create “manuscript records,” and helping to build an authority file of persons and institutions associated with the movement of manuscripts across time and place.'
+    The SDBM continuously aggregates and updates observations of pre-modern manuscripts drawn from over 13,000 auction and sales catalogs, inventories, catalogs from institutional and private collections, and other sources that document their sales and locations from around the world. This is an interactive resource for finding, indexing, and researching the world's manuscripts. Members of its user community can become contributing partners in its development by adding new entries, commenting on other users entries, aggregating entries to create “manuscript records,” and helping to build an authority file of persons and institutions associated with the movement of manuscripts across time and place.
   tags: [manuscripts, database]
   domain: SIMS
 - title: 'Scribes of the Cairo Geniza'
@@ -44,7 +44,7 @@ resources:
 - title: 'Digital Beehive Project'
   link: https://kislakcenter.github.io/digital-beehive/
   description: |
-    'The Digital Beehive Project provides a digital tool for navigating Francis Daniel Pastorius's "Bee-Hive" manuscript, UPenn MS Codex 726. The project currently provides a complete page-by-page representation of the manuscript as well as a partial hyperlinked interface for navigating sections of the manuscript.'
+    The Digital Beehive Project provides a digital tool for navigating Francis Daniel Pastorius's "Bee-Hive" manuscript, UPenn MS Codex 726. The project currently provides a complete page-by-page representation of the manuscript as well as a partial hyperlinked interface for navigating sections of the manuscript.
   tags: [primary sources, manuscripts, tools]
   domain: Kislak
 - finding-aids:
@@ -61,7 +61,7 @@ resources:
 - title: 'Provenance Online Project'
   link: https://provenanceonlineproject.wordpress.com/
   description: |
-    'The Provenance Online Project (POP) makes digital images of provenance evidence contained in books—bookplates, inscriptions, labels, bindings, and other physical attributes indicating ownership—openly available alongside bibliographic and descriptive metadata. The images, currently totaling over 18,000, come not only from Penn's collections but also from Library Company of Philadelphia, the Folger Shakespeare Library,  Princeton University Library with images coming soon from the Newberry Library,  the Clark Library at UCLA, the Beinecke Library at Yale, the Getty Research Institute, the Huntington Library, and the Library of Congress.'
+    The Provenance Online Project (POP) makes digital images of provenance evidence contained in books—bookplates, inscriptions, labels, bindings, and other physical attributes indicating ownership—openly available alongside bibliographic and descriptive metadata. The images, currently totaling over 18,000, come not only from Penn's collections but also from Library Company of Philadelphia, the Folger Shakespeare Library,  Princeton University Library with images coming soon from the Newberry Library,  the Clark Library at UCLA, the Beinecke Library at Yale, the Getty Research Institute, the Huntington Library, and the Library of Congress.
   tags: [repository]
   domain: Kislak
 - title: 'Bibliotheca Hebraica Atlantica'
@@ -77,13 +77,13 @@ resources:
 - title: 'Penn Libraries Holy Land Digital Image Collections'
   link: http://pennds.org/holyland/
   description: |
-    'This Omeka site contains over 18,000 images from Penn Libraries' special and general collection related to the Holy Land.'
+    This Omeka site contains over 18,000 images from Penn Libraries' special and general collection related to the Holy Land.
   tags: [primary sources, repository]
   domain: Kislak
 - title: 'Digital Second Edition of Judaica Americana'
   link: https://repository.upenn.edu/judaica_americana/
   description: |
-    'This open-access repository includes Robert Singerman's magisterial two-volume Judaica Americana, an American Jewish bibliography of publications, both monographic and periodical, published prior to the 20th century.'
+    This open-access repository includes Robert Singerman's magisterial two-volume Judaica Americana, an American Jewish bibliography of publications, both monographic and periodical, published prior to the 20th century.
   tags: [manuscripts, dataset]
   domain: Judaica DH
 - title: 'Zucker Holy Land Travel Manuscript'
