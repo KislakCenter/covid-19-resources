@@ -10,56 +10,54 @@
   description: ' Scribes of the Cairo Geniza is a multilingual crowdsourcing project to classify & transcribe fragments of medieval and premodern manuscripts from the Cairo Geniza.'
   tags:
   domain: Judaica DH
-- title: 'Schoenberg Database of Manuscripts'
-  link: https://sdbm.library.upenn.edu/
-  description: 'The SDBM continuously aggregates and updates observations of pre-modern manuscripts drawn from over 13,000 auction and sales catalogs, inventories, catalogs from institutional and private collections, and other sources that document their sales and locations from around the world. This is an interactive resource for finding, indexing, and researching the world's manuscripts. Members of its user community can become contributing partners in its development by adding new entries, commenting on other users entries, aggregating entries to create “manuscript records,” and helping to build an authority file of persons and institutions associated with the movement of manuscripts across time and place.'
-  tags: [manuscripts, database]
-  domain: SIMS
 - title: 'Openn: Primary digital resources available to everyone'
   link: http://openn.library.upenn.edu/
   description: 'OPenn contains complete sets of high-resolution archival images of cultural heritage material from the collections of its contributing institutions, along with machine-readable descriptive and technical metadata. All materials on OPenn are in the public domain or released under Creative Commons licenses as Free Cultural Works. Materials on OPenn are available at full resolution, with derivatives provided for easy re-use on the web. Downloading can be accomplished by following instructions in the Technical ReadMe on OPenn.  The Curated Collections page provides access to documents grouped together for a specific purpose, like a grant or a project.'
   tags: [primary sources, manuscripts]
   domain: Kislak
-  title: 'Colenda Digital Repository'
+- title: 'Colenda Digital Repository'
   link: https://colenda.library.upenn.edu/
   description: 'Colenda is a system for long-term preservation and access to digital assets stewarded by Penn Libraries. Complete sets of images of digitized manuscripts and printed works are available on Colenda along with associated metadata. Colenda is a project of the Libraries, developed using the Samvera software framework. At this time, content accessible to the public in this application is in theÊpublic domain and is therefore available for public use, or where indicated, is of undetermined copyright.'
   tags: [manuscripts, printed works, primary sources]
   domain: Kislak
-  title: 'BiblioPhilly: An Interface for the Bibliotheca Philadelphiensis Project'
+- title: 'BiblioPhilly: An Interface for the Bibliotheca Philadelphiensis Project'
   link: http://bibliophilly.library.upenn.edu/
   description: 'This website provides access to the medieval manuscripts of Philadelphia, books written entirely by hand, and often gloriously illuminated with sumptuous pictures. The Philadelphia region is home to a large number of libraries with truly outstanding special collections, most of whom are members of the Philadelphia Area Consortium of Special Collections Libraries (PACSCL). Fifteen of these libraries have catalogued and digitized 450 medieval Western European manuscripts, available here, with the generous support of the Council on Library and Information Resources (CLIR), via its Digitizing Hidden Special Collections and Archives initiative.'
   tags: [manuscripts, primary sources]
   domain: SIMS
-  title: 'The Needham Calculator 1.0'
+- title: 'The Needham Calculator 1.0'
   link: http://www.needhamcalculator.net/
   description: 'The Needham Calculator is a tool created at the Schoenberg Institute for Manuscript Studies for manuscript scholars, art historians, incunabulists, and all those interested in the categories and formats of fifteenth century paper, and the impact they had on the sizes of books and works of art. The Needham Calculator derives its name from scholar Paul Needham because it is dependent upon his classification of categories of fifteenth-century paper.'
   tags: [tools]
   domain: SIMS
-  title: 'Arnold and Deanne Kaplan Collection of Early American Judaica'
+- title: 'Arnold and Deanne Kaplan Collection of Early American Judaica'
   link: https://kaplan.exhibits.library.upenn.edu/
   description: 'The Arnold and Deanne Kaplan Collection of Early American Judaica documents an astonishingly broad range of commercial, social, religious, political, and cultural ties that connected Jews and the general public from the early colonial era through the onset of mass migration at the end of the nineteenth century. The collection includes records of everyday lives, families, businesses, communal institutions, religious organizations, voluntary associations, and political circumstances of Jewish life.ÊIt provides a unique window into the changing character of colonial life and culture around the Atlantic world and within the United States and it documents changing perceptions and experiences of new worlds of space and time, not only from the perspective of its Jewish colonists and citizens but also in the context of the larger societies in which they have lived.'
   tags: [printed works, primary sources]
   domain: Kislak
-  title: 'Penn Libraries Online Exhibits'
+- title: 'Penn Libraries Online Exhibits'
   link: https://www.library.upenn.edu/collections/online-exhibits/
   description: 'This website lists and provides access to online exhibits from the Penn Libraries collections created over the past two decades, including collections at the Kislak Center for Special Collections, Rare Books and Manuscripts, the Fisher Fine Arts Library, the Library at the Katz Center for Advanced Juadaic Studies.'
   tags: [online exhibits, manuscripts, printed works]
   domain: [Kislak, SIMS]
-<<<<<<< HEAD
-=======
-- title: 'Manuscript Studies Journal'
-  link: https://muse.jhu.edu/journal/698
-  description: 'Manuscript Studies is a new journal that embraces the full complexity of global manuscript studies in the digital age, with full text content available through Project MUSE. It has been conceived with four main goals in mind. First, to bridge the gaps between material and digital manuscript research; second, to break down the walls which often separate print and digital publication and serve as barriers between academics, professionals in the cultural heritage field, and citizen scholars; third, to serve as a forum for scholarship encompassing many pre-modern manuscripts cultures—not just those of Europe; and finally to showcase methods and techniques of analysis in manuscript studies that can be applied across different subject areas.'
-  tags: [manuscripts]
-  domain: SIMS
-- title: 'VisColl'
-  link: https://github.com/KislakCenter/VisColl
-  description: 'VisColl is a system for generating visualizations of a physical manuscript’s collation. It consists of a data model for modeling of a manuscript (based on quires, leaves in quires, and typology for the leaves (original, missing, added, replaced)), software for building models in a tabular format (published online and expressed in a custom XML schema), and software for generating visualizations from that model, via another online form. VisColl is free and available for anyone to use. Video tutorials are available on the SIMS YouTube channel :https://www.youtube.com/playlist?list=PL8e3GREu0zuDzGMlwWhHyMnSQ-TA7ZqqA'
-  tags: [manuscripts, tools]
-  domain: SIMS
-- title: 'Mss Videos'
-  link: https://schoenberginstitute.org/category/video/
-  description: 'These videos celebrate the physicality of manuscripts that traditional manuscript digitization projects cannot capture. While digitization focuses on page images, and sometimes on text encoding, these videos feature scholars discussing what is special (or typical, or otherwise interesting) about manuscripts, providing an intimate view not only of the textual content of the manuscripts, but also their physical context.'
-  tags: [manuscripts]
-  domain: SIMS
->>>>>>> db79e9277ce432e720cd504fa3f7b740920ce5e1
+- title: 'Digital Beehive Project'
+  link: https://kislakcenter.github.io/digital-beehive/
+  description: 'The Digital Beehive Project provides a digital tool for navigating Francis Daniel Pastorius's "Bee-Hive" manuscript, UPenn MS Codex 726. The project currently provides a complete page-by-page representation of the manuscript as well as a partial hyperlinked interface for navigating sections of the manuscript.'
+  tags: [primary sources, manuscripts, tools]
+  domain: Kislak
+- finding-aids:
+  title: 'Finding Aids'
+  link: http://dla.library.upenn.edu/dla/ead/index.html
+  description: 'The finding aids provide a thorough account of manuscript collections and archival materials available at the University of Pennsylvania. Finding aids include an inventory of the collection as well as relevant background information.'
+  tags: [tools, repository]
+  domain: Kislak
+- title: 'Canvas'
+  link: https://canvas.upenn.edu
+  description: 'Canvas is the primary learning management system for the University of Pennsylvania. Instructors can use Canvas in conjunction with other digital tools to provide students an interface for integrating special collections into their teaching.'
+  tags: [tool]
+  domain: University
+- title: 'Provenance Online Project'
+  link: https://provenanceonlineproject.wordpress.com/
+  description: 'The Provenance Online Project (POP) makes digital images of provenance evidence contained in books—bookplates, inscriptions, labels, bindings, and other physical attributes indicating ownership—openly available alongside bibliographic and descriptive metadata. The images, currently totaling over 18,000, come not only from Penn's collections but also from Library Company of Philadelphia, the Folger Shakespeare Library,  Princeton University Library with images coming soon from the Newberry Library,  the Clark Library at UCLA, the Beinecke Library at Yale, the Getty Research Institute, the Huntington Library, and the Library of Congress.'
+  tags: [repository]
+  domain: Kislak
