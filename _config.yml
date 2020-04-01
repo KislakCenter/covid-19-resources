@@ -34,7 +34,7 @@ header_pages:
     title: About
   - path: feed.xml
     title: RSS
-  - path: resources.md
+  - path: resources.html
     title: Resources
   - path: search.html
     title: Search
