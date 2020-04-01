@@ -1,0 +1,22 @@
+# Jekyll configuration
+
+- title: 'Schoenberg Database of Manuscripts'
+  link: https://sdbm.library.upenn.edu/
+  description: 'The SDBM continuously aggregates and updates observations of pre-modern manuscripts drawn from over 13,000 auction and sales catalogs, inventories, catalogs from institutional and private collections, and other sources that document their sales and locations from around the world. This is an interactive resource for finding, indexing, and researching the world's manuscripts. Members of its user community can become contributing partners in its development by adding new entries, commenting on other users entries, aggregating entries to create “manuscript records,” and helping to build an authority file of persons and institutions associated with the movement of manuscripts across time and place.'
+  tags: [manuscripts, database]
+  domain: SIMS
+- title: 'Scribes of the Cairo Geniza'
+  link: scribesofthecairogeniza.org
+  description: ' Scribes of the Cairo Geniza is a multilingual crowdsourcing project to classify & transcribe fragments of medieval and premodern manuscripts from the Cairo Geniza.'
+  tags: 
+  domain: Judaica DH
+- title: 'Schoenberg Database of Manuscripts'
+  link: https://sdbm.library.upenn.edu/
+  description: 'The SDBM continuously aggregates and updates observations of pre-modern manuscripts drawn from over 13,000 auction and sales catalogs, inventories, catalogs from institutional and private collections, and other sources that document their sales and locations from around the world. This is an interactive resource for finding, indexing, and researching the world's manuscripts. Members of its user community can become contributing partners in its development by adding new entries, commenting on other users entries, aggregating entries to create “manuscript records,” and helping to build an authority file of persons and institutions associated with the movement of manuscripts across time and place.'
+  tags: [manuscripts, database]
+  domain: SIMS
+- title: 'Schoenberg Database of Manuscripts'
+  link: https://sdbm.library.upenn.edu/
+  description: ''
+  tags: 
+  domain:
