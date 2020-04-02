@@ -119,3 +119,9 @@ resources:
     These videos celebrate the physicality of manuscripts that traditional manuscript digitization projects cannot capture. While digitization focuses on page images, and sometimes on text encoding, these videos feature scholars discussing what is special (or typical, or otherwise interesting) about manuscripts, providing an intimate view not only of the textual content of the manuscripts, but also their physical context.
   tags: [manuscripts]
   domain: SIMS
+- title: 'The Sabato Morais Ledger'
+  link: http://sceti.library.upenn.edu/morais/
+  description: |
+    Browse more than 500 pages of the ledger and learn about Sabato Morais' personal scrapbook of newspaper clippings, pamphlets, circulars, and typescripts that he collected during his lifetime (1823 - 1897).
+  tags: [manuscripts, primary sources, online exhibits]
+  domain: SCETI
