@@ -7,7 +7,7 @@ resources:
   tags: [manuscripts, database]
   domain: SIMS
 - title: 'Scribes of the Cairo Geniza'
-  link: scribesofthecairogeniza.org
+  link: https://www.scribesofthecairogeniza.org/
   description: ' Scribes of the Cairo Geniza is a multilingual crowdsourcing project to classify & transcribe fragments of medieval and premodern manuscripts from the Cairo Geniza.'
   tags:
   domain: Judaica DH
@@ -101,3 +101,27 @@ resources:
   description: 'The Gershwind-Bennett Isaac Leeser Digital Repository brings together Isaac Leeser’s correspondence, the Occident, and various publications for full text search and discovery.'
   tags: [manuscripts, repository, primary sources]
   domain: Kislak
+- title: 'Manuscript Studies Journal'
+  link: https://muse.jhu.edu/journal/698
+  description: |
+    Manuscript Studies is a new journal that embraces the full complexity of global manuscript studies in the digital age, with full text content available through Project MUSE. It has been conceived with four main goals in mind. First, to bridge the gaps between material and digital manuscript research; second, to break down the walls which often separate print and digital publication and serve as barriers between academics, professionals in the cultural heritage field, and citizen scholars; third, to serve as a forum for scholarship encompassing many pre-modern manuscripts cultures—not just those of Europe; and finally to showcase methods and techniques of analysis in manuscript studies that can be applied across different subject areas.
+  tags: [manuscripts]
+  domain: SIMS
+- title: 'VisColl'
+  link: https://github.com/KislakCenter/VisColl
+  description: |
+    VisColl is a system for generating visualizations of a physical manuscript’s collation. It consists of a data model for modeling of a manuscript (based on quires, leaves in quires, and typology for the leaves (original, missing, added, replaced)), software for building models in a tabular format (published online and expressed in a custom XML schema), and software for generating visualizations from that model, via another online form. VisColl is free and available for anyone to use.
+  tags: [manuscripts, tools]
+  domain:
+- title: 'Mss Videos'
+  link: https://schoenberginstitute.org/category/video/
+  description: |
+    These videos celebrate the physicality of manuscripts that traditional manuscript digitization projects cannot capture. While digitization focuses on page images, and sometimes on text encoding, these videos feature scholars discussing what is special (or typical, or otherwise interesting) about manuscripts, providing an intimate view not only of the textual content of the manuscripts, but also their physical context.
+  tags: [manuscripts]
+  domain: SIMS
+- title: 'The Sabato Morais Ledger'
+  link: http://sceti.library.upenn.edu/morais/
+  description: |
+    Browse more than 500 pages of the ledger and learn about Sabato Morais' personal scrapbook of newspaper clippings, pamphlets, circulars, and typescripts that he collected during his lifetime (1823 - 1897).
+  tags: [manuscripts, primary sources, online exhibits]
+  domain: SCETI
