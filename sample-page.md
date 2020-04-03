@@ -4,8 +4,21 @@ title: Sample Page
 permalink: /sample-page/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec dui nunc mattis enim ut tellus elementum sagittis. Nulla malesuada pellentesque elit eget gravida cum sociis. Eget gravida cum sociis natoque penatibus et magnis dis parturient. Lacus vel facilisis volutpat est. Aliquam sem et tortor consequat id porta. Diam maecenas sed enim ut sem viverra aliquet eget. Eu ultrices vitae auctor eu. Etiam non quam lacus suspendisse faucibus. Ut tortor pretium viverra suspendisse. Ut sem nulla pharetra diam sit.
+{% assign accordion_data = site.data.resources.resources %}
 
-Vestibulum sed arcu non odio euismod. Iaculis eu non diam phasellus vestibulum lorem sed risus ultricies. Nunc lobortis mattis aliquam faucibus purus in massa tempor nec. Ac tincidunt vitae semper quis lectus nulla at volutpat. Et netus et malesuada fames ac turpis egestas. Enim ut tellus elementum sagittis vitae et leo duis. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in. Ac orci phasellus egestas tellus rutrum tellus pellentesque. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. At consectetur lorem donec massa sapien faucibus et molestie. Eu consequat ac felis donec et odio pellentesque diam. Gravida arcu ac tortor dignissim convallis aenean et tortor. Euismod elementum nisi quis eleifend quam adipiscing vitae proin. At elementum eu facilisis sed odio morbi quis.
-
-Facilisis mauris sit amet massa vitae tortor condimentum lacinia. Turpis egestas sed tempus urna et pharetra pharetra massa massa. Sit amet luctus venenatis lectus magna fringilla urna porttitor. Elit pellentesque habitant morbi tristique senectus et. Pellentesque habitant morbi tristique senectus et netus et malesuada fames. Ultrices dui sapien eget mi proin sed libero enim. Enim sit amet venenatis urna cursus eget nunc scelerisque. Pulvinar mattis nunc sed blandit libero. Malesuada proin libero nunc consequat interdum varius. Semper auctor neque vitae tempus quam pellentesque. Sed enim ut sem viverra aliquet eget sit amet. Pharetra massa massa ultricies mi quis. Lectus urna duis convallis convallis tellus id. Faucibus ornare suspendisse sed nisi lacus. Rhoncus dolor purus non enim. Egestas congue quisque egestas diam in arcu cursus.
+<style>
+ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
+ul.jekyllcodex_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
+ul.jekyllcodex_accordion li input {display: none;}
+ul.jekyllcodex_accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
+ul.jekyllcodex_accordion li div {display: none; padding-bottom: 1.2rem;}
+ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
+ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
+ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
+ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
+</style>
+<ul class="jekyllcodex_accordion">
+    {% for item in accordion_data %}
+        <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{ item.title }}</label><div><a href="{{ item.link }}">{{ item.title }}</a><br>{{ item.description | markdownify }}</div></li>
+    {% endfor %}
+</ul>
