@@ -56,7 +56,7 @@ resources:
 - title: 'Canvas'
   link: https://canvas.upenn.edu
   description: 'Canvas is the primary learning management system for the University of Pennsylvania. Instructors can use Canvas in conjunction with other digital tools to provide students an interface for integrating special collections into their teaching.'
-  tags: [tool]
+  tags: [tools]
   domain: University
 - title: 'Provenance Online Project'
   link: https://provenanceonlineproject.wordpress.com/
