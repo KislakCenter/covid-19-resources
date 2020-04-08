@@ -26,18 +26,18 @@ gitlab:
 # NOTE: If no `title` is given in this list or the page's YAML header,
 # the link will not appear in the navigation bar.
 header_pages:
-  - path: links.html
-    title: Links
+#  - path: links.html
+#    title: Links
 #  - path: archive.html
 #    title: Archive
-  - path: about.html
-    title: About
-#  - path: feed.xml
-#    title: RSS
   - path: resources.html
     title: Resources
-  - path: search.html
-    title: Search
+#  - path: about.html
+#    title: About
+#  - path: feed.xml
+#    title: RSS
+#  - path: search.html
+#    title: Search
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
 
