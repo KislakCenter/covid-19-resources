@@ -108,7 +108,7 @@ resources:
   tags: [manuscripts]
   domain: SIMS
 - title: 'VisColl'
-  link: https://github.com/KislakCenter/VisColl
+  link: https://viscoll.org
   description: |
     VisColl is a system for generating visualizations of a physical manuscript’s collation. It consists of a data model for modeling of a manuscript (based on quires, leaves in quires, and typology for the leaves (original, missing, added, replaced)), software for building models in a tabular format (published online and expressed in a custom XML schema), and software for generating visualizations from that model, via another online form. VisColl is free and available for anyone to use.
   tags: [manuscripts, tools]
