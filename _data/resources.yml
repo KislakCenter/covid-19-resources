@@ -108,7 +108,7 @@ resources:
   tags: [manuscripts]
   domain: SIMS
 - title: 'VisColl'
-  link: https://github.com/KislakCenter/VisColl
+  link: https://viscoll.org/
   description: |
     VisColl is a system for generating visualizations of a physical manuscript’s collation. It consists of a data model for modeling of a manuscript (based on quires, leaves in quires, and typology for the leaves (original, missing, added, replaced)), software for building models in a tabular format (published online and expressed in a custom XML schema), and software for generating visualizations from that model, via another online form. VisColl is free and available for anyone to use.
   tags: [manuscripts, tools]
@@ -125,3 +125,39 @@ resources:
     Browse more than 500 pages of the ledger and learn about Sabato Morais' personal scrapbook of newspaper clippings, pamphlets, circulars, and typescripts that he collected during his lifetime (1823 - 1897).
   tags: [manuscripts, primary sources, online exhibits]
   domain: SCETI
+- title: 'Penn in Hand'
+  link: http://dla.library.upenn.edu/dla/medren/index.html
+  description: |
+    The site offers bibliographic information and digital facsimiles for selected collections of manuscript codices, texts, documents, papers, and leaves held by Penn's Rare Book & Manuscript Library. Penn holds over 2,000 Western manuscripts produced before the 19th century; medieval and Renaissance manuscripts comprise approximately 900 items, the earliest dating from 1000 A.D. Its holdings of Indic manuscripts is the largest in the Western hemisphere with more than 3,000 items. The Lawrence J. Schoenberg Collection emphasizes secular topics, especially science and mathematics, and includes tablets from the 21st to 18th centuries B.C.
+  tags: [manuscripts, primary sources]
+  domain: Kislak, SIMS
+- title: 'Print at Penn'
+  link: http://dla.library.upenn.edu/dla/print/index.html
+  description: |
+    Print at Penn  is the online repository for digitized facsimiles of materials from the University of Pennsylvania Libraries' print collections. The site includes bibliographic information for each digitized work as well as faceted and keyword searches across and within collections. Among the facets are those which allow users to limit their queries to a specific collection or to a specific location within the Penn Libraries system. This functionality will allow users to discover materials more quickly and easily.
+  tags: [printed works, primary sources]
+  domain: Kislak
+- title: 'Kislak Center Special Collections and Collections of Note'
+  link: https://www.library.upenn.edu/collections/special-notable?f%5B0%5D=library_collection:421
+  description: |
+    This page links to collection descriptions and online resources related to all of the collections within the Kislak Center. Links and descriptions are actively updated.
+  tags: [manuscripts, printed works, primary sources]
+  domain: Kislak
+- title: 'Kislak Center Archive of Past Exhibitions and Events'
+  link: https://www.library.upenn.edu/about/exhibits-events/archive
+  description: |
+    Explore the past twenty years of the Kislak Center's exhibitions and events, including gallery and event photos and links to related online resources. Content is actively updated.
+  tags: [online exhibitions]
+  domain: Kislak, SIMS
+- title: 'Special Collections Processing at Penn Blog'
+  link: https://pennrare.wordpress.com/
+  description: |
+    The Special Collections Processing Center (SCPC) of the University of Pennsylvania’s Kislak Center for Special Collections, Rare Books and Manuscripts is responsible for cataloging rare books, manuscripts, and archival collections for use by the general public. The blog is our opportunity to talk about what we love, what surprises us, and what we learn from the treasures within our collections!  Check back frequently for the most recent SCPC finds.
+  tags: [manuscripts, printed books]
+  domain: Kislak, SIMS
+- title: 'Mapping Manuscript Migrations'
+  link: https://mappingmanuscriptmigrations.org/
+  description: |
+    Mapping Manuscript Migrations (MMM) is a semantic portal for finding and studying pre-modern manuscripts and their movements, based on linked collections of the Schoenberg Institute for Manuscript Studies, the Bodleian Libraries, and the Institut de recherche et d'histoire des textes. Researchers are able to analyse and visualize the aggregated data at scales ranging from individual manuscripts to thousands of manuscripts.
+  tags: [manuscripts, tools]
+  domain: SIMS
