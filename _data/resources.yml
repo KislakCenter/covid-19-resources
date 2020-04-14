@@ -9,7 +9,7 @@ resources:
 - title: 'Scribes of the Cairo Geniza'
   link: https://www.scribesofthecairogeniza.org/
   description: ' Scribes of the Cairo Geniza is a multilingual crowdsourcing project to classify & transcribe fragments of medieval and premodern manuscripts from the Cairo Geniza.'
-  tags:
+  tags: [manuscripts, primary sources]
   domain: Judaica DH
 - title: 'Openn: Primary digital resources available to everyone'
   link: http://openn.library.upenn.edu/
