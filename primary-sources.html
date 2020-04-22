@@ -1,0 +1,8 @@
+---
+layout: page
+title: "Resources: Primary Sources"
+---
+
+{% assign accordion_data = site.data.resources.resources | where: "tags", "primary sources" | sort: "title" %}
+
+{% include accordion.html %}

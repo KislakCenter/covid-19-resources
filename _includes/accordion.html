@@ -1,0 +1,9 @@
+<ul class="jekyllcodex_accordion">
+    {% for item in accordion_data %}
+        <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{ item.title }}<br>
+        {% for tag in item.tags %}
+        <span class="badge badge-secondary">{{ tag }}</span>
+        {% endfor %}
+        </label><div><a href="{{ item.link }}">{{ item.title }}</a><br>{{ item.description | markdownify }}</div></li>
+    {% endfor %}
+</ul>

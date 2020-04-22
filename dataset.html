@@ -1,0 +1,8 @@
+---
+layout: page
+title: "Resources: Datasets"
+---
+
+{% assign accordion_data = site.data.resources.resources | where: "tags", "dataset" | sort: "title" %}
+
+{% include accordion.html %}

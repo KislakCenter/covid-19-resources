@@ -1,0 +1,8 @@
+---
+layout: page
+title: "Resources: Databases"
+---
+
+{% assign accordion_data = site.data.resources.resources | where: "tags", "database" | sort: "title" %}
+
+{% include accordion.html %}
