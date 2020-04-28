@@ -3,7 +3,7 @@ resources:
 - title: Schoenberg Database of Manuscripts
   link: https://sdbm.library.upenn.edu/
   description: |
-    The SDBM continuously aggregates and updates observations of pre-modern manuscripts drawn from over 13,000 auction and sales catalogs, inventories, catalogs from institutional and private collections, and other sources that document their sales and locations from around the world. This is an interactive resource for finding, indexing, and researching the world's manuscripts. Members of its user community can become contributing partners in its development by adding new entries, commenting on other users entries, aggregating entries to create “manuscript records,” and helping to build an authority file of persons and institutions associated with the movement of manuscripts across time and place.
+    The SDBM continuously aggregates and updates observations of pre-modern manuscripts drawn from over 13,000 auction and sales catalogs, inventories, catalogs from institutional and private collections, and other sources that document their sales and locations from around the world. This is an interactive resource for finding, indexing, and researching the world's manuscripts. Members of its user community can become contributing partners in its development by adding new entries, commenting on other users entries, aggregating entries to create “manuscript records,” and helping to build an authority file of persons and institutions associated with the movement of manuscripts across time and place. Video tutorials are available to demonstrate basic database tasks.
   tags: [manuscripts, database]
   domain: SIMS
 - title: 'Scribes of the Cairo Geniza'
@@ -54,7 +54,7 @@ resources:
   description: 'This website provides access to the medieval manuscripts of Philadelphia, books written entirely by hand, and often gloriously illuminated with sumptuous pictures. The Philadelphia region is home to a large number of libraries with truly outstanding special collections, most of whom are members of the Philadelphia Area Consortium of Special Collections Libraries (PACSCL). Fifteen of these libraries have catalogued and digitized 450 medieval Western European manuscripts, available here, with the generous support of the Council on Library and Information Resources (CLIR), via its Digitizing Hidden Special Collections and Archives initiative. For access to master TIFF images, web derivatives and TEI xml manuscript descriptions go to: http://openn.library.upenn.edu/html/bibliophilly_contents.html'
   tags: [manuscripts, primary sources]
   domain: SIMS
-- title: 'The Needham Calculator 1.0'
+- title: 'Needham Calculator 1.0'
   link: http://www.needhamcalculator.net/
   description: 'The Needham Calculator is a tool created at the Schoenberg Institute for Manuscript Studies for manuscript scholars, art historians, incunabulists, and all those interested in the categories and formats of fifteenth century paper, and the impact they had on the sizes of books and works of art. The Needham Calculator derives its name from scholar Paul Needham because it is dependent upon his classification of categories of fifteenth-century paper.'
   tags: [tools]
@@ -66,7 +66,7 @@ resources:
   domain: Kislak
 - title: 'Penn Libraries Online Exhibits'
   link: https://www.library.upenn.edu/collections/online-exhibits/
-  description: 'This website lists and provides access to online exhibits from the Penn Libraries collections created over the past two decades, including collections at the Kislak Center for Special Collections, Rare Books and Manuscripts, the Fisher Fine Arts Library, the Library at the Katz Center for Advanced Juadaic Studies.'
+  description: 'This website lists and provides access to online exhibits from the Penn Libraries collections created over the past two decades, including collections at the Kislak Center for Special Collections, Rare Books and Manuscripts, the Fisher Fine Arts Library, the Library at the Katz Center for Advanced Juadaic Studies, and the Otto E. Albrecht Music Library and Eugene Ormandy Music & Media Center.'
   tags: [online exhibits, manuscripts, printed works]
   domain: [Kislak, SIMS]
 - title: 'Digital Beehive Project'
@@ -147,7 +147,7 @@ resources:
     These videos celebrate the physicality of manuscripts that traditional manuscript digitization projects cannot capture. While digitization focuses on page images, and sometimes on text encoding, these videos feature scholars discussing what is special (or typical, or otherwise interesting) about manuscripts, providing an intimate view not only of the textual content of the manuscripts, but also their physical context.
   tags: [manuscripts]
   domain: SIMS
-- title: 'The Sabato Morais Ledger'
+- title: 'Sabato Morais Ledger'
   link: http://sceti.library.upenn.edu/morais/
   description: |
     Browse more than 500 pages of the ledger and learn about Sabato Morais' personal scrapbook of newspaper clippings, pamphlets, circulars, and typescripts that he collected during his lifetime (1823 - 1897).
@@ -189,7 +189,26 @@ resources:
     Mapping Manuscript Migrations (MMM) is a semantic portal for finding and studying pre-modern manuscripts and their movements, based on linked collections of the Schoenberg Institute for Manuscript Studies, the Bodleian Libraries, and the Institut de recherche et d'histoire des textes. Researchers are able to analyse and visualize the aggregated data at scales ranging from individual manuscripts to thousands of manuscripts.
   tags: [manuscripts, tools, database]
   domain: SIMS
-- title: The Schoenberg Institute for Manuscript Studies
+- title: 'Schoenberg Institute for Manuscript Studies'
   link: https://schoenberginstitute.org/
   description: 'Guided by the vision of its founder, Lawrence J. Schoenberg, the mission of SIMS at Penn is to bring manuscript culture, modern technology and people together to bring access to and understanding of our intellectual heritage locally and around the world. We advance the mission of SIMS by developing our own projects, supporting the scholarly work of others both at Penn and elsewhere, and collaborating with and contributing to other manuscript-based initiatives around the world. Access the SIMS website for the SIMS blog, videos, projects and much more.'
   tags: [manuscripts, blog]
+  domain: SIMS
+- title: 'Mapping Manuscript Migrations Technical Documentation'
+  link:  https://mapping-manuscript-migrations.github.io/
+  description: |
+    This website hosts the technical documentation for the Mapping Manuscript Migrations (MMM) project. It includes descriptions of the three datasets that MMM combines (the Schoenberg Database, Bibale, and the Medieval Manuscripts Online Catalogue at the Bodleian Library), an explanation of the unified MMM data model, and a SPARQL tutorial where users can learn how to query the MMM dataset.
+  tags: [manuscripts]
+  domain: SIMS
+- title: 'Schoenberg Center for Electronic Text and Image'
+  link:  http://sceti.library.upenn.edu/
+  description: |
+    Over 2,000,000 images from various collections of rare books, manuscripts, papyri, photographs and sheet music are available for your viewing. Each collection has its own web site that is unrestricted in the interests of knowledge and learning.
+  tags: [manuscripts, printed works, primary sources]
+  domain: Kislak
+- title: 'Penn Digital Collections and Projects'
+  link:  https://www.library.upenn.edu/collections/digital-projects
+  description: |
+    Digital collections and projects feature unique, primary-source materials for teaching, research, and discovery drawn from the Penn Libraries' signature collections or from our collaborations with the Penn community and with cultural heritage institutions. It provides access to important rare books, manuscripts, photographs and multimedia sources represented by images, texts, audio files, bibliographic databases, catalogs, and archival finding aids for the study of a wide array of subjects ranging from Philadelphia neighborhoods and the life of Marian Anderson to medieval manuscripts and Shakespeare's plays. In addition, this site gathers together Penn Libraries' pre-1923 materials publicly available through the Internet Archive as well as Penn-produced scholarship accessible in the ScholarlyCommons.
+  tags: [manuscripts, printed works, primary sources, database]
+  domain: Kislak, SIMS
