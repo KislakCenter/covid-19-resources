@@ -3,6 +3,14 @@ layout: page
 title: Resources
 ---
 
+View Resources By Tag:
+<br >
+{% assign my_array = site.pages | where:"type","tag" %}
+{% for page in my_array %}
+<span class="badge badge-secondary"><a style="color:#FFFFFF;" href='{{ site.baseurl }}/{{resources}}/{{page.url}}'>{{ page.tag }}</a></span><br >
+{% endfor %}
+
+
 {% assign accordion_data = site.data.resources.resources | sort: "title" %}
 
 {% include accordion.html %}
