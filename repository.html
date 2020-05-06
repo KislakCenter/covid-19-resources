@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Resources: Repositories"
+permalink: /resources/repository/
 ---
+
+{% include breadcrumbs.html %}
 
 {% assign accordion_data = site.data.resources.resources | where: "tags", "repository" | sort: "title" %}
 

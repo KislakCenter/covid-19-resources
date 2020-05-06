@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "Resources: Online Exhibits"
+permalink: /resources/online-exhibits/
 ---
+
+{% include breadcrumbs.html %}
 
 {% assign accordion_data = site.data.resources.resources | where: "tags", "online exhibits" | sort: "title" %}
 
