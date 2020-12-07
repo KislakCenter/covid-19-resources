@@ -212,3 +212,15 @@ resources:
     Digital collections and projects feature unique, primary-source materials for teaching, research, and discovery drawn from the Penn Libraries' signature collections or from our collaborations with the Penn community and with cultural heritage institutions. It provides access to important rare books, manuscripts, photographs and multimedia sources represented by images, texts, audio files, bibliographic databases, catalogs, and archival finding aids for the study of a wide array of subjects ranging from Philadelphia neighborhoods and the life of Marian Anderson to medieval manuscripts and Shakespeare's plays. In addition, this site gathers together Penn Libraries' pre-1923 materials publicly available through the Internet Archive as well as Penn-produced scholarship accessible in the ScholarlyCommons.
   tags: [manuscripts, printed works, primary sources, database]
   domain: Kislak, SIMS
+- title: 'Schoenberg Symposium 2020 Session Recordings'
+  link:  https://www.youtube.com/playlist?list=PL8e3GREu0zuDe3BxUim-RfZVUF7eMP4-7
+  description: |
+      For the first time in its history, the annual Schoenberg Symposium was held virtually from Nov. 18-20, 2020. This year's theme,"Manuscript Studies in the COVID-19 Age", called for papers and discussions considering the oppurtunities and limitations offered by digital images and manuscript-related metadata as well as the digital and conceptual interfaces that come between the data and us as users. All sessions were recorded and can be accessed via the linked YouTube playlist.
+  tags: [manuscripts]
+  domain: SIMS
+- title: 'Schoenberg Symposium 2020 Lightning Talks'
+  link: https://www.youtube.com/playlist?list=PL8e3GREu0zuD1mR_tXBvn4ovYib9E3qwq
+  description: |
+      5 minute lightning talks featured in the Schoenberg Symposium 2020.
+  tags: [manuscripts]
+  domain: SIMS
